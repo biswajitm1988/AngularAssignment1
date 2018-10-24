@@ -1,1 +1,27 @@
-/* You can add global styles to this file, and also import other style files */
+body { padding-top: 70px; }
+
+figure{
+  float: right;
+}
+
+table.experience, td {
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif
+}
+
+#maps {
+  width: 100%;
+  height: 500px;
+}
+
+.center {
+  text-align: center;
+}
+
+.myvideo{
+  height: 50%;
+  width: 70%;
+}
+
+#profileInfo{
+  font-family: 'Courier New', Courier, monospace;
+}
